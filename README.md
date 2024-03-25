@@ -27,7 +27,7 @@ Github
 Javascript
 
 ## Support and contact details
-github.com/Mark Maina
+github.com/Mark Mainag
 
 ### License
 The content of this site is licensed under the MIT license
